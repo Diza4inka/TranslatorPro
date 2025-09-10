@@ -98,6 +98,7 @@ NumPy - обработка аудиоданных
 
 <img width="1279" height="101" alt="Screenshot_50" src="https://github.com/user-attachments/assets/2009c005-692a-41a1-b7d1-d075b2af3494" />
 
+<img width="289" height="69" alt="Screenshot_51" src="https://github.com/user-attachments/assets/5ce579b1-5513-4e40-8a57-adc07f5c9daa" />
 
 
 
